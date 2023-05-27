@@ -1,15 +1,4 @@
-{
-"newVersion": "1.2.2",
-"apkUrl": "https://play.google.com/store/apps/details?id=izphs.vpn.ph",
-"versionNotes":"
-• ADD SSL + PAYLOAD
-• FIX NO VIRUS DETECTED 
-• FREE 10 COINS 
-• FIX ADDTIME
-• FIX IP HUNT
-• Optimize Add Coins
-• Optimize UI
-• Optimize Connection Status
-• Supported Android 5 & above
-"
+{"versionCode": "1.0.0",
+ "url": "https://t.me/helpervpn",
+ "Message": "Aplikasi Saat ini versi 8.3.0 untuk aplikasi kalian bisa download di telegram official kami Helper VPN Official"
 }
